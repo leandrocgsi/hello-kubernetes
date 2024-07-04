@@ -20,6 +20,6 @@ public class HelloKubernetesController {
     
     @GetMapping(path = "/hello-kubernetes")
     public String helloKubernetes() {
-        return "Hello Kubernetes " + " V1 " + service.retrieveInstanceInfo();
+        return "Hello Kubernetes " + " V2 " + service.retrieveInstanceInfo();
     }
 }

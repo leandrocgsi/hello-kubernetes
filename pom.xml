@@ -10,7 +10,7 @@
     </parent>
     <groupId>br.com.erudio</groupId>
     <artifactId>hello-kubernetes</artifactId>
-    <version>ERUDIO-0.0.1</version>
+    <version>ERUDIO-0.0.2</version>
     <name>hello-kubernetes</name>
     <description>Demo project for Spring Boot</description>
     <url/>
